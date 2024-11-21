@@ -6,7 +6,6 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon -r dotenv/config --experimental-json-modules src/index.js"
-  
   },
   "keywords": [
     "javascript",
@@ -21,6 +20,6 @@
   "dependencies": {
     "dotenv": "^16.4.5",
     "express": "^4.21.1",
-    "mongoose": "^8.8.1"
+    "mongoose": "^8.8.2"
   }
 }
